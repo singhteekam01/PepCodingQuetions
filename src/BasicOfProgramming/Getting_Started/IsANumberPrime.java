@@ -1,4 +1,4 @@
-package BasicOfProgramming;
+package BasicOfProgramming.Getting_Started;
 
 import java.util.*;
 
