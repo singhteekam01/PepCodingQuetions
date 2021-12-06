@@ -2,7 +2,7 @@ package BasicOfProgramming.Getting_Started;
 
 import java.util.*;
 
-public class IsANumberPrime {
+public class Is_A_Number_Prime {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);

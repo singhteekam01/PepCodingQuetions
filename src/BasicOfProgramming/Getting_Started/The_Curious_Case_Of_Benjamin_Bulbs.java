@@ -2,7 +2,7 @@ package BasicOfProgramming.Getting_Started;
 
 import java.util.Scanner;
 
-public class TheCuriousCaseOfBenjaminBulbs {
+public class The_Curious_Case_Of_Benjamin_Bulbs {
 
     public static void main(String[] args) {
         // write your code here

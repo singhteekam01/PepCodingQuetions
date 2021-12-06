@@ -2,7 +2,7 @@ package BasicOfProgramming.Getting_Started;
 
 import java.util.Scanner;
 
-public class CountDigitsInANumber {
+public class Count_Digits_In_A_Number {
 
     public static void main(String[] args) {
         // write your code here

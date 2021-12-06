@@ -2,7 +2,7 @@ package BasicOfProgramming.Getting_Started;
 
 import java.util.Scanner;
 
-public class GCDAndLCM {
+public class GCD_And_LCM {
     public static void main(String[] args) {
         // write your code here
         Scanner scn = new Scanner(System.in);

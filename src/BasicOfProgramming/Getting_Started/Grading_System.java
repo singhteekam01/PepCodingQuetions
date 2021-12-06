@@ -2,7 +2,7 @@ package BasicOfProgramming.Getting_Started;
 
 import java.util.Scanner;
 
-public class GradingSystem {
+public class Grading_System {
     public static void main(String[] args) {
         // input - don't change this code
         Scanner scn = new Scanner(System.in);

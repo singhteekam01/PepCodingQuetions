@@ -2,7 +2,7 @@ package BasicOfProgramming.Getting_Started;
 
 import java.util.Scanner;
 
-public class AllPrimesTillN {
+public class All_Primes_Till_N {
     public static boolean isNumberPrime(int num){
 
         for(int i=2; i*i<=num; i++){

@@ -2,7 +2,7 @@ package BasicOfProgramming.Getting_Started;
 
 import java.util.Scanner;
 
-public class PrimeFactorizationOfANumber {
+public class Prime_Factorization_Of_A_Number {
     public static void main(String[] args) {
         // write your code here
         Scanner scn = new Scanner(System.in);

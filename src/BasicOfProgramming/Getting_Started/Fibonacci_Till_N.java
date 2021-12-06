@@ -2,7 +2,7 @@ package BasicOfProgramming.Getting_Started;
 
 import java.util.Scanner;
 
-public class FibonacciTillN {
+public class Fibonacci_Till_N {
     public static void main(String[] args) {
         // write your code here
         Scanner scn = new Scanner(System.in);
