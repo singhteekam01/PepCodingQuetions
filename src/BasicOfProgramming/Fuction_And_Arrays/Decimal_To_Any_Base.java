@@ -7,7 +7,7 @@ import java.util.*;
 // 3. You are required to convert the number n into its corresponding value in base b.
 
 
-public class DecimalToAnyBase {
+public class Decimal_To_Any_Base {
 
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);

@@ -5,7 +5,7 @@ import java.util.Scanner;
 // 2. You are given a base b. n is a number on base b.
 // 3. You are required to convert the number n into its corresponding value in decimal number system.
 
-public class AnyBaseToDecimal {
+public class Any_Base_To_Decimal {
 
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);

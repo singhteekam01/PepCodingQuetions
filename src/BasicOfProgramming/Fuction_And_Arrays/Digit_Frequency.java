@@ -8,7 +8,7 @@ import java.util.*;
 // 3. You are required to calculate the frequency of digit d in number n.
 
 
-public class DigitFrequency {
+public class Digit_Frequency {
 
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);

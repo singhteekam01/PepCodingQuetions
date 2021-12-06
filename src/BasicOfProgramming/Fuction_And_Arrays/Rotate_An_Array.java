@@ -8,7 +8,7 @@ import java.util.*;
 // 4. Rotate the array a, k times to the right (for positive values of k), and to
 // the left for negative values of k.
 
-public class RotateAnArray {
+public class Rotate_An_Array {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 

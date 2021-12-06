@@ -6,7 +6,7 @@ import java.util.*;
 // 2. You are given n numbers, representing elements of array a.
 // 3. You are required to reverse the contents of array a.
 
-public class ReverseOfAnArray {
+public class Reverse_Of_An_Array {
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
 

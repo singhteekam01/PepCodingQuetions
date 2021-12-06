@@ -7,7 +7,7 @@ import java.util.Scanner;
 // 3. You are given another number d.
 // 4. You are required to check if d number exists in the array a and at what index (0 based). If found print the index, otherwise print -1.
 
-public class FindElementInAnArray {
+public class Find_Element_In_An_Array {
     public static void main(String[] args){
        Scanner scn = new Scanner(System.in);
 

@@ -7,7 +7,7 @@ import java.util.*;
 // 3. You are given another base b2.
 // 4. You are required to convert the number n of base b1 to a number in base b2.
 
-public class AnyBaseToAnyBase {
+public class Any_Base_Any_Base {
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
 

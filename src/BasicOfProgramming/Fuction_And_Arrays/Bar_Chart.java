@@ -6,7 +6,7 @@ import java.util.Scanner;
 // 2. You are given n numbers, representing elements of array a.
 // 3. You are required to print a bar chart representing value of arr a.
 
-public class BarChart {
+public class Bar_Chart {
     public static void main(String[] args){
 
         Scanner scn = new Scanner(System.in);

@@ -6,7 +6,7 @@ import java.util.Scanner;
 // 2. You are given two numbers n1 and n2 of base b.
 // 3. You are required to add the two numbes and print their value in base b.
 
-public class AnyBaseAddition {
+public class Any_Base_Addition {
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
 

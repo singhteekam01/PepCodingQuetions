@@ -6,7 +6,7 @@ import java.util.Scanner;
 // 2. You are given n numbers.
 // 3. You are required to find the span of input. Span is defined as difference of maximum value and minimum value.
 
-public class SpanOfArray {
+public class Span_Of_Array {
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
 

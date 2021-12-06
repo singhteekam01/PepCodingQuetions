@@ -8,7 +8,7 @@ import java.util.Scanner;
 // on separate line. For more clarity check out sample input and output.
 
 
-public class SubsetsOfArray {
+public class Subsets_Of_Array {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 

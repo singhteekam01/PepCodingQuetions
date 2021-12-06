@@ -6,7 +6,7 @@ import java.util.Scanner;
 // 2. You are given two numbers n1 and n2 of base b.
 // 3. You are required to multiply n1 and n2 and print the value.
 
-public class AnyBaseMultiplication {
+public class Any_Base_Multiplication {
     public static void main(String[] args){
         Scanner scn = new Scanner(System.in);
 

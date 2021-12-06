@@ -8,7 +8,7 @@ import java.util.Scanner;
 // Assumption - Array is sorted. Array may have duplicate values.
 
 
-public class FirstAndLastIndex {
+public class First_And_Last_Index {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 

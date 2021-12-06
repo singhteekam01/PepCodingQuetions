@@ -8,7 +8,7 @@ import java.util.Scanner;
 // 3. You are given another number d.
 // 4. You are required to find the ceil and floor of d in array a.
 
-public class BrokenEconomy {
+public class Broken_Economy {
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
 
