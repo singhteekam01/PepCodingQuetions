@@ -2,7 +2,7 @@ package BasicOfProgramming.Patterns;
 
 import java.util.Scanner;
 
-public class Pattern4 {
+public class Pattern_4 {
 
     public static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
