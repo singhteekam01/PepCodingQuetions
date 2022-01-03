@@ -1,0 +1,31 @@
+package RecursionAndBacktracking.RecursionOnTheWayUp;
+
+import java.util.Scanner;
+
+public class Print_Permutations {
+        public static void main(String[] args) throws Exception {
+
+            Scanner scn = new Scanner(System.in);
+
+            String str = scn.next();
+
+            printPermutations(str,"");
+
+        }
+
+        public static void printPermutations(String str, String asf) {
+
+            if(str.length() == 0){
+                System.out.println(asf);
+                return;
+            }
+
+            for(int i=0; i<str.length();i++){
+
+                String newStr = str.substring(0,i)+str.substring(i+1);
+
+                printPermutations(newStr,asf+str.charAt(i));
+            }
+
+        }
+}
